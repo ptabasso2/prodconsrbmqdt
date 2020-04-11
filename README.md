@@ -74,7 +74,7 @@ COMP10619:prodconsrbmqdt pejman.tabassomi$ ./gradlew shadowjar
 ````
 
 
-### _Start the the app_
+### _Start the app_
 
 Open two terminal windows, one for the producer. The other for the consumer.
 
